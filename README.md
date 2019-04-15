@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The best way to learn is by doing!  Let's work together to create something amazing.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Assists new programmers with issues that might arise during their work.
+- Provides automated comments during specified points of the process to better guide first time users.
 
 ## Getting started
 
