@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- "You opened your first pull request - way to go!"
+- "No problems here - you're all set to merge."
+- "Your pull request has been merged.  Bask in all the Git glory"
